@@ -1,0 +1,19 @@
+{
+  "name": "web3js-v2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@solana-program/compute-budget": "^0.6.1",
+    "@solana-program/system": "^0.6.2",
+    "@solana/web3.js": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.9.3"
+  }
+}
